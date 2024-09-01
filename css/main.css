@@ -930,8 +930,8 @@ input[type="button"] {
   font-weight: 600;
   font-size: 1.3rem;
   text-transform: uppercase;
-  letter-spacing: 0.5rem;
-  height: 6rem;
+  letter-spacing: 2px;
+  height: 5.5rem;
   line-height: 5.6rem;
   padding: 0 3.2rem;
   margin: 0 0.4rem 1.6rem 0;
@@ -999,8 +999,8 @@ button.full-width {
 
 .btn--medium,
 button.btn--medium {
-  height: 6.4rem !important;
-  line-height: 6rem !important;
+  height: 4rem !important;
+  line-height: 4rem !important;
 }
 
 .btn--large,
